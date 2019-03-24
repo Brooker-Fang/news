@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/counter/main",
+    "pages/mypage/main",
+    "pages/search/main",
+    "pages/newdetail/main"
+  ],
+  "window": {
+    "backgroundTextStyle":"light",
+    "navigationBarTextStyle":"white",
+    "navigationBarBackgroundColor": "#97CBFF",
+    "navigationBarTitleText":"新闻",
+    "backgroundColor":"#ffffff",
+    "enablePullDownRefresh": true
+
+
+  }
+
+
+}
